@@ -10,6 +10,7 @@ Each ADOIP should provide a concise technical specification of the feature and a
 | Number                      | Title                                                                 | Type          | Status   |
 |-----------------------------|-----------------------------------------------------------------------|---------------|----------|
 | [ADOIP-0000](adoip-0000.md) | ADOIP Template                                                        | Informational | Accepted |
+| [ADOIP-0010](adoip-0010.md) | Registered IDs for EIP-2362                                           | Informational | Draft    |
 
 ---
 
